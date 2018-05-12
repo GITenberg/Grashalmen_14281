@@ -1,0 +1,36 @@
+_repo: Grashalmen_14281
+_version: 0.1.0
+alternative_title: Leaves of grass. Dutch
+contributor:
+  translator:
+    agent_name: Wagenvoort, Maurits
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '39553'
+    url: http://www.gutenberg.org/2009/agents/39553
+covers:
+- cover_type: archival
+  image_path: 14281-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+description: ''
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14281'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: Grashalmen
+url: http://www.gutenberg.org/ebooks/14281
